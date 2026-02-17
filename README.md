@@ -49,9 +49,7 @@ A public safety scorecard for high-gain AI conversational features. Binary archi
 | [Field Guide](https://github.com/richard-porter/ai-collaboration-field-guide) | Practitioners / Users | Theoretical (why it matters) |
 | [Dimensional Authorship](https://github.com/richard-porter/dimensional-authorship) | Researchers / Curious readers | Narrative (how it happened) |
 
-## About
 
+## Suggested GitHub Topics
 
-All proceeds from published work support charitable organizations.
-
-*The first step in sovereignty is naming what’s happening to you. The second step is deciding what to do about it. There is no third step.*
+`ai-safety` · `ai-psychosis` · `ai-governance` · `llm-safety` · `sycophancy` · `ai-alignment` · `behavioral-safety` · `deterministic-safety` · `human-ai-interaction` · `ai-ethics` · `mental-health` · `ai-accountability` · `guardrails` · `responsible-ai`
