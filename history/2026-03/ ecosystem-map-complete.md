@@ -1,3 +1,4 @@
+HISTORICAL-HEADER
 # The Richard Porter Ecosystem — Complete Map
 
 *March 2026*
