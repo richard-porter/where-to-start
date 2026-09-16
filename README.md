@@ -1,6 +1,6 @@
 # Where to Start
 
-Public hub for Richard Porter’s free work on safe, sovereign human–AI collaboration.
+Public hub for Richard Porter's free work on safe, sovereign human–AI collaboration.
 
 This is the front door to the ecosystem.
 
@@ -8,21 +8,23 @@ If you are new here, do not try to read everything in order. Each repository has
 
 Everything here is free, voluntary, and intended to be usable without technical background.
 
------
+> **A note on the word "sovereignty."** In this work, sovereignty means an individual's cognitive authority over their own judgment while collaborating with AI. In most policy writing, "AI sovereignty" means national control over AI infrastructure. The two usages share a word and nothing else.
+
+---
 
 ## The Ecosystem at a Glance
 
 This work is organized into seven distinct layers:
 
 1. **Safety architecture** — how to constrain AI behavior before drift begins
-1. **Practical collaboration** — how to work with AI without losing judgment or control
-1. **Authorship and sovereignty research** — how human governance survives or fails inside collaboration
-1. **Measurement and scorecards** — how to test whether safeguards are structurally present
-1. **Trust and provenance** — how delegation, custody, and verification work across agents or systems
-1. **Concrete tools** — operational utilities that support sovereign thinking in practice
-1. **Developmental tools** — judgment-building protocols for practitioners working toward expertise
+2. **Practical collaboration** — how to work with AI without losing judgment or control
+3. **Authorship and sovereignty research** — how human governance survives or fails inside collaboration
+4. **Measurement and scorecards** — how to test whether safeguards are structurally present
+5. **Trust and provenance** — how delegation, custody, and verification work across agents or systems
+6. **Concrete tools** — operational utilities that support sovereign thinking in practice
+7. **Developmental tools** — judgment-building protocols for practitioners working toward expertise
 
------
+---
 
 ## Start Here Based on Your Need
 
@@ -40,7 +42,7 @@ This is the place to start if your question is:
 
 Read this first if you care about safety floors, behavioral failure modes, or constraint-based governance.
 
------
+---
 
 ### 2. If you want practical skills for everyday AI use
 
@@ -56,7 +58,7 @@ This is the place to start if your question is:
 
 Read this first if you want usable methods, diagnostic language, and sovereign thinking tools (includes 48 Sovereign Thinking Tools).
 
------
+---
 
 ### 3. If you want the research home for authorship, voice, and human sovereignty
 
@@ -83,7 +85,7 @@ Read this first if you want the Taller Shell case, voice-preservation work, prov
 - `experiments/rhythm-signature-rebuild-v02.md` — anomaly-distribution detection specification for the Dimensional Fidelity Scorer
 - `experiments/minimum-viable-corpus-protocol.md` — empirical methodology for establishing the minimum authenticated text needed for reliable voice discrimination
 
------
+---
 
 ### 4. If you want scorecards, benchmarks, or safety tests
 
@@ -99,7 +101,7 @@ This is the place to start if your question is:
 
 Read this first if you care about scorecards, indices, pass/fail safety criteria, or evaluation frameworks.
 
------
+---
 
 ### 5. If you want provenance or multi-agent trust logic
 
@@ -116,7 +118,7 @@ This is the place to start if your question is:
 
 Read this first if you are thinking about multi-agent systems, custody, scope, authorization, or provenance chains.
 
------
+---
 
 ### 6. If you want a concrete sovereign-thinking tool
 
@@ -135,13 +137,13 @@ Read this first if you want a usable example of the tool layer.
 
 **Note for authorship and voice work:** The Mapper now includes a Voice Degradation Domain extension — a detection domain that activates on voice-critical documents (long-form fiction, memoir, AI-collaborative work under emotional pressure) and flags the absence of characteristic anomalies, register variance, and productive incoherence signals. If you are working in the dimensional-authorship space, the Mapper is a companion instrument to the Voice Degradation Taxonomy.
 
------
+---
 
 ### 7. If you want to build judgment through structured practice
 
 ## [Sovereign Thinking Tools](https://github.com/richard-porter/ai-collaboration-field-guide/tree/main/sovereign-thinking-tools)
 
-The developmental tools layer.
+The developmental tools layer, housed inside the Field Guide repository.
 
 This is the place to start if your question is:
 
@@ -157,7 +159,7 @@ Read this first if you want tools that build the practitioner, not just tools th
 - `tool-47-cascade-failure-detector.md` — pre-decision structural diagnostic for systems assumed to be resilient
 - `tool-48-conrad.md` — consequence simulator for building judgment before experience provides it; includes Black Swan inoculation and the Rehearsal Stop Condition
 
------
+---
 
 ## Recommended Reading Paths
 
@@ -166,56 +168,56 @@ Read this first if you want tools that build the practitioner, not just tools th
 Start with:
 
 1. **AI Collaboration Field Guide**
-1. **Frozen Kernel**
-1. **Negative Space Mapper**
+2. **Frozen Kernel**
+3. **Negative Space Mapper**
 
 ### I care about safety architecture
 
 Start with:
 
 1. **Frozen Kernel**
-1. **Safety Ledgers**
-1. **Trust Chain Protocol**
+2. **Safety Ledgers**
+3. **Trust Chain Protocol**
 
 ### I care about writing, authorship, and preserving human voice
 
 Start with:
 
 1. **Dimensional Authorship**
-1. **Negative Space Mapper** (Voice Degradation Domain)
-1. **Safety Ledgers**
+2. **Negative Space Mapper** (Voice Degradation Domain)
+3. **Safety Ledgers**
 
 ### I care about provenance, delegation, and agent networks
 
 Start with:
 
 1. **Trust Chain Protocol**
-1. **Frozen Kernel**
-1. **Safety Ledgers**
+2. **Frozen Kernel**
+3. **Safety Ledgers**
 
 ### I want to build judgment and decision-making capacity
 
 Start with:
 
 1. **Sovereign Thinking Tools** (Tool 48: Conrad)
-1. **AI Collaboration Field Guide**
-1. **Frozen Kernel**
+2. **AI Collaboration Field Guide**
+3. **Frozen Kernel**
 
 ### I want the full conceptual arc
 
 Read in this order:
 
 1. **Frozen Kernel**
-1. **AI Collaboration Field Guide**
-1. **Dimensional Authorship**
-1. **Safety Ledgers**
-1. **Trust Chain Protocol**
-1. **Negative Space Mapper**
-1. **Sovereign Thinking Tools**
+2. **AI Collaboration Field Guide**
+3. **Dimensional Authorship**
+4. **Safety Ledgers**
+5. **Trust Chain Protocol**
+6. **Negative Space Mapper**
+7. **Sovereign Thinking Tools**
 
------
+---
 
-## One-Sentence Purpose of Each Repo
+## One-Sentence Purpose of Each Layer
 
 - **Frozen Kernel** — deterministic safety architecture for human–AI collaboration
 - **AI Collaboration Field Guide** — practical operating manual for staying sovereign while using AI (includes 48 Sovereign Thinking Tools)
@@ -223,9 +225,9 @@ Read in this order:
 - **Safety Ledgers** — scorecards, indices, and binary tests for AI safeguards
 - **Trust Chain Protocol** — delegation, custody, and verification architecture for multi-agent systems
 - **Negative Space Mapper** — a tool that identifies meaningful absences without taking over interpretation
-- **Sovereign Thinking Tools** — 48 judgment-building protocols spanning cognitive bypass, structural diagnostics, and developmental training
+- **Sovereign Thinking Tools** — 48 judgment-building protocols spanning cognitive bypass, structural diagnostics, and developmental training (a folder within the Field Guide repository)
 
------
+---
 
 ## What This Work Is Trying to Do
 
@@ -244,7 +246,7 @@ The deeper questions are:
 
 Each repository addresses one part of that larger problem.
 
------
+---
 
 ## If You Only Read One Thing
 
@@ -256,7 +258,13 @@ Each repository addresses one part of that larger problem.
 - For a concrete tool: **Negative Space Mapper**
 - For building judgment: **Sovereign Thinking Tools**
 
------
+---
+
+## Historical Files
+
+`history/2026-03/` holds the March 2026 ecosystem map, canonical architecture diagram, and action register as they were written. They document how the work was organized at that stage and are kept for provenance, not as a description of the present.
+
+---
 
 ## License / Use
 
