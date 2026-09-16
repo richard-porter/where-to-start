@@ -3,6 +3,7 @@
 Public hub for Richard Porter's free work on safe, sovereign human–AI collaboration.
 
 This is the front door to the ecosystem.
+Current orientation: September 2026. Earlier architecture and planning documents are preserved as historical snapshots rather than silently revised to match the present.
 
 If you are new here, do not try to read everything in order. Each repository has a different job. Start with the one that matches the question you are actually trying to answer.
 
@@ -14,7 +15,7 @@ Everything here is free, voluntary, and intended to be usable without technical 
 
 ## The Ecosystem at a Glance
 
-This work is organized into seven distinct layers:
+There are seven useful ways into this work:
 
 1. **Safety architecture** — how to constrain AI behavior before drift begins
 2. **Practical collaboration** — how to work with AI without losing judgment or control
@@ -217,7 +218,7 @@ Read in this order:
 
 ---
 
-## One-Sentence Purpose of Each Layer
+## One-Sentence Purpose of Each Entry Point 
 
 - **Frozen Kernel** — deterministic safety architecture for human–AI collaboration
 - **AI Collaboration Field Guide** — practical operating manual for staying sovereign while using AI (includes 48 Sovereign Thinking Tools)
