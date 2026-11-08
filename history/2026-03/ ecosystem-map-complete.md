@@ -1,4 +1,6 @@
 HISTORICAL-HEADER
+
+*Identifying details generalized for privacy.*
 # The Richard Porter Ecosystem — Complete Map
 
 *March 2026*
@@ -130,7 +132,7 @@ OWASP DSGAI mapping → BDD Ledger → Experiment 58 series → TCP → Frozen K
 
 **Audience:** Nonprofit executive directors, board chairs, governance consultants, funders evaluating organizational health.
 
-**Design source:** 25+ years of Fortune 500 HR practice at Rolls-Royce North America and Navient, translated for organizations under $2M budget with volunteer or minimal staff.
+**Design source:** Enterprise HR practice, translated for organizations under $2M budget with volunteer or minimal staff.
 
 ### The Eight Documents
 
@@ -247,12 +249,12 @@ FROZEN KERNEL (Core)
 ├── Nonprofit Governance Toolkit
 │   ├── Addresses: Governance failure, people fragility, compliance risk
 │   ├── Tools: Eight governance documents
-│   └── Evidence: Kids Coats ED search, Sally Burton Food Pantry
+│   └── Evidence: Nonprofit ED search and food pantry operations
 │
 └── Sovereign Thinking System
     ├── Addresses: Practitioner cognition, decision quality, tool discipline
     ├── Tools: Mr. Wolff, Sovereign Thinking Tools, Food Pantry Profile
-    └── Evidence: Rolls-Royce, Navient, nonprofit board experience
+    └── Evidence: Enterprise HR and nonprofit board experience
 ```
 
 ### The Shared Design Principles
@@ -279,7 +281,7 @@ All three systems draw from the same source base:
 
 **Promise Theory / Semantic Spacetime (Burgess):** Burgess & Bergstra (2014/2019) Promise Theory → Frozen Kernel non-compellability principle; Burgess SST geometry-over-ontology → proscriptive constraint architecture over RLHF rule lists; TCP Chain of Custody as promise architecture
 
-**Enterprise HR Methodology:** Rolls-Royce process engineering → 60+ Visio process maps → Nonprofit translation methodology → Cause-agnostic governance toolkit
+**Enterprise HR Methodology:** Enterprise process engineering → documented process maps → Nonprofit translation methodology → Cause-agnostic governance toolkit
 
 **Clinical Accreditation:** JCAHO/Joint Commission standards → Governance Audit methodology → Binary safety ledgers → Clinical harm prevention criteria
 
